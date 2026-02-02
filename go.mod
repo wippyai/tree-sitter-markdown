@@ -1,4 +1,4 @@
-module github.com/ponyruntime/tree-sitter-markdown
+module github.com/wippyai/tree-sitter-markdown
 
 go 1.23
 
