@@ -3,7 +3,7 @@ package tree_sitter_markdown_test
 import (
 	"testing"
 
-	tree_sitter_markdown "github.com/ponyruntime/tree-sitter-markdown/bindings/go"
+	tree_sitter_markdown "github.com/wippyai/tree-sitter-markdown/bindings/go"
 	tree_sitter "github.com/tree-sitter/go-tree-sitter"
 )
 
